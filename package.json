@@ -1,6 +1,11 @@
 {
 	"author": "Egor Ushakov",
 	"description": "This is a project for freecodecamp",
+	"keywords": [
+		"freecode",
+		"programming",
+		"npm"
+	],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
